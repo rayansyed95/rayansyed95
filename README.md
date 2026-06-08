@@ -63,7 +63,7 @@ End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF
   "ML / NLP":     ["Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy",
                    "Matplotlib", "Seaborn", "ChromaDB", "RAG", "TF-IDF", "XGBoost"],
   "frameworks":   ["Streamlit", "FastAPI", "Flask", "Supabase"],
-  "dev tools":    ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Cursor"]
+  "dev tools":    ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Cursor", "Antigravity"]
 }
 ```
 
