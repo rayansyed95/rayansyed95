@@ -75,9 +75,6 @@ End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF
 - Developed a sales prediction model in Python (Scikit-learn, Pandas) achieving ~87% accuracy
 - Built ML microservices using Streamlit and FastAPI for internal analytics dashboards
 
-**Control Room Supervisor** — Professional Security & Risk Management Services *(Jan 2022 – Present)*
-- Implemented automation tools for event log management and surveillance monitoring
-
 ---
 
 ## Certifications & Education
