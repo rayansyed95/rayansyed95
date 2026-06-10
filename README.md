@@ -8,6 +8,45 @@ A Software Engineering graduate specialising in **Machine Learning**, **Generati
 
 ---
 
+## Technical Skills
+
+```python
+{
+  "languages":    ["Python", "SQL"],
+  "AI / LLMs":    ["OpenAI API", "Anthropic API", "Gemini API", "LangChain", "LangGraph",
+                   "Prompt Engineering", "Generative AI Agents"],
+  "ML / NLP":     ["Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy",
+                   "Matplotlib", "Seaborn", "ChromaDB", "RAG", "TF-IDF", "XGBoost"],
+  "frameworks":   ["Streamlit", "FastAPI", "Flask", "Supabase"],
+  "dev tools":    ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Cursor", "Antigravity"]
+}
+```
+
+---
+
+## Professional Experience
+
+**Web Master & AI Practitioner** — Francicea *(Feb 2025 – Present)*
+- Developed a sales prediction model in Python (Scikit-learn, Pandas) achieving ~87% accuracy
+- Built ML microservices using Streamlit and FastAPI for internal analytics dashboards
+
+---
+
+## Certifications & Education
+
+| Qualification | Institution |
+|---|---|
+| 🎓 BSc Software Engineering — **First Class Honours** | Buckinghamshire New University |
+| ☁️ AWS Certified Cloud Practitioner *(Valid until Jun 2029)* | Amazon Web Services |
+| ✅ AI Engineering Programme *(BCS Accredited)* | IT Online Learning UK |
+| ✅ Coding Diploma *(BCS Accredited)* | IT Online Learning UK |
+| ✅ Foundation: Introduction to LangChain – Python (Jun 2026) | LangChain Academy |
+| 📘 TensorFlow Developer | Google *(In Progress)* |
+| 📘 Generative AI & Prompt Engineering | Coursera / Google Cloud |
+| 📘 Data Science with Python |  |
+| 📘 Python for Machine Learning – Scikit-learn |  |
+
+
 ## Featured Projects
 
 ### 🎙️ [AI Panel Discussion](https://github.com/rayansyed95/AI-panel-discussion-project)
@@ -51,45 +90,6 @@ End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF
 > `Python` `NLTK` `Scikit-learn` `NLP` `Naive Bayes`
 
 ---
-
-
-## Technical Skills
-
-```python
-{
-  "languages":    ["Python", "SQL"],
-  "AI / LLMs":    ["OpenAI API", "Anthropic API", "Gemini API", "LangChain", "LangGraph",
-                   "Prompt Engineering", "Generative AI Agents"],
-  "ML / NLP":     ["Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy",
-                   "Matplotlib", "Seaborn", "ChromaDB", "RAG", "TF-IDF", "XGBoost"],
-  "frameworks":   ["Streamlit", "FastAPI", "Flask", "Supabase"],
-  "dev tools":    ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Cursor", "Antigravity"]
-}
-```
-
----
-
-## Professional Experience
-
-**Web Master & AI Practitioner** — Francicea *(Feb 2025 – Present)*
-- Developed a sales prediction model in Python (Scikit-learn, Pandas) achieving ~87% accuracy
-- Built ML microservices using Streamlit and FastAPI for internal analytics dashboards
-
----
-
-## Certifications & Education
-
-| Qualification | Institution |
-|---|---|
-| 🎓 BSc Software Engineering — **First Class Honours** | Buckinghamshire New University |
-| ☁️ AWS Certified Cloud Practitioner *(Valid until Jun 2029)* | Amazon Web Services |
-| ✅ AI Engineering Programme *(BCS Accredited)* | IT Online Learning UK |
-| ✅ Coding Diploma *(BCS Accredited)* | IT Online Learning UK |
-| ✅ Foundation: Introduction to LangChain – Python (Jun 2026) | LangChain Academy |
-| 📘 TensorFlow Developer | Google *(In Progress)* |
-| 📘 Generative AI & Prompt Engineering | Coursera / Google Cloud |
-| 📘 Data Science with Python |  |
-| 📘 Python for Machine Learning – Scikit-learn |  |
 
 
 *Always building. Always learning. 🚀*
