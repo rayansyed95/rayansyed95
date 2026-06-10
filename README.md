@@ -85,10 +85,11 @@ End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF
 | ☁️ AWS Certified Cloud Practitioner *(Valid until Jun 2029)* | Amazon Web Services |
 | ✅ AI Engineering Programme *(BCS Accredited)* | IT Online Learning UK |
 | ✅ Coding Diploma *(BCS Accredited)* | IT Online Learning UK |
-| 📘 Python for Machine Learning – Scikit-learn | 2024 |
-| 📘 Generative AI & Prompt Engineering | Coursera / Google Cloud |
-| 📘 Data Science with Python | 2024 |
+| ✅ Foundation: Introduction to LangChain – Python (Jun 2026) | LangChain Academy |
 | 📘 TensorFlow Developer | Google *(In Progress)* |
+| 📘 Generative AI & Prompt Engineering | Coursera / Google Cloud |
+| 📘 Data Science with Python |  |
+| 📘 Python for Machine Learning – Scikit-learn |  |
 
 
 *Always building. Always learning. 🚀*
