@@ -46,6 +46,7 @@ A Software Engineering graduate specialising in **Machine Learning**, **Generati
 | 📘 Data Science with Python |  |
 | 📘 Python for Machine Learning – Scikit-learn |  |
 
+---
 
 ## Featured Projects
 
