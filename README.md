@@ -91,17 +91,17 @@ A production-grade Retrieval-Augmented Generation pipeline featuring **Hybrid Se
 
 ---
 
-### 🎬 [Movie & TV Recommendation Engine](https://github.com/rayansyed95/movies-tvshows-recommendations)
-Content-based recommendation system spanning 6 major streaming platforms, built using TF-IDF vectorisation and cosine similarity.
-
-> `Python` `Scikit-learn` `NLP` `TF-IDF` `Jupyter`
-
----
-
 ### 📩 [SMS Spam Classifier](https://github.com/rayansyed95/sms-spam-classifier)
 End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF, achieving **97% accuracy** with 100% precision to eliminate false positives.
 
 > `Python` `NLTK` `Scikit-learn` `NLP` `Naive Bayes`
+
+---
+
+### 🎬 [Movie & TV Recommendation Engine](https://github.com/rayansyed95/movies-tvshows-recommendations)
+Content-based recommendation system spanning 6 major streaming platforms, built using TF-IDF vectorisation and cosine similarity.
+
+> `Python` `Scikit-learn` `NLP` `TF-IDF` `Jupyter`
 
 ---
 
