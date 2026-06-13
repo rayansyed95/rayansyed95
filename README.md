@@ -84,7 +84,7 @@ A production-grade Retrieval-Augmented Generation pipeline featuring **Hybrid Se
 
 ---
 
-### 📄 [AI Resume Generator](https://github.com/rayansyed95) *(Final Year Project)*
+### 📄 [AI Resume Generator](https://github.com/rayansyed95)
 A full-stack Generative AI application for automated resume generation, powered by GPT-4. Built with a Streamlit frontend, Supabase backend, Google OAuth authentication, and PDF export via Spire.Doc.
 
 > `Python` `Streamlit` `Supabase` `OpenAI GPT-4` `FastAPI` `Google OAuth`
