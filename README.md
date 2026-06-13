@@ -77,7 +77,7 @@ A multi-agent orchestration system integrating **GPT-4o**, **Gemini**, and **Cla
 
 ---
 
-### 📄 [AI Resume Generator](https://github.com/rayansyed95/AI-Resume-Builder-FYP)
+### 📄 [AI-Resume-Builder-FYP](https://github.com/rayansyed95/AI-Resume-Builder-FYP)
 A full-stack Generative AI application for automated resume generation, powered by GPT-4. Built with a Streamlit frontend, Supabase backend, Google OAuth authentication, and PDF export via Spire.Doc.
 
 > `Python` `Streamlit` `Supabase` `OpenAI GPT-4` `FastAPI` `Google OAuth`
