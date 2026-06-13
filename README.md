@@ -77,13 +77,6 @@ A multi-agent orchestration system integrating **GPT-4o**, **Gemini**, and **Cla
 
 ---
 
-### 🔍 [Advanced RAG Pipeline](https://github.com/rayansyed95/Advanced-RAG-1)
-A production-grade Retrieval-Augmented Generation pipeline featuring **Hybrid Search** (semantic + keyword), **Reciprocal Rank Fusion**, **Cross-Encoder re-ranking**, and query transformation via GPT-4o-mini. Includes an interactive Streamlit chat interface with session history.
-
-> `Python` `ChromaDB` `LangChain` `OpenAI` `Sentence Transformers` `RAG`
-
----
-
 ### 📄 [AI Resume Generator](https://github.com/rayansyed95)
 A full-stack Generative AI application for automated resume generation, powered by GPT-4. Built with a Streamlit frontend, Supabase backend, Google OAuth authentication, and PDF export via Spire.Doc.
 
@@ -91,10 +84,10 @@ A full-stack Generative AI application for automated resume generation, powered 
 
 ---
 
-### 📉 [Customer Churn Prediction](https://github.com/rayansyed95/churn-prediction)
-End-to-end machine learning pipeline using **Random Forest** and **XGBoost**, achieving 85% accuracy on customer churn classification.
+### 🔍 [Advanced RAG Pipeline](https://github.com/rayansyed95/Advanced-RAG-1)
+A production-grade Retrieval-Augmented Generation pipeline featuring **Hybrid Search** (semantic + keyword), **Reciprocal Rank Fusion**, **Cross-Encoder re-ranking**, and query transformation via GPT-4o-mini. Includes an interactive Streamlit chat interface with session history.
 
-> `Python` `Scikit-learn` `XGBoost` `Pandas` `Jupyter`
+> `Python` `ChromaDB` `LangChain` `OpenAI` `Sentence Transformers` `RAG`
 
 ---
 
@@ -112,5 +105,11 @@ End-to-end text classification pipeline using Multinomial Naive Bayes and TF-IDF
 
 ---
 
+### 📉 [Customer Churn Prediction](https://github.com/rayansyed95/churn-prediction)
+End-to-end machine learning pipeline using **Random Forest** and **XGBoost**, achieving 85% accuracy on customer churn classification.
+
+> `Python` `Scikit-learn` `XGBoost` `Pandas` `Jupyter`
+
+---
 
 *Always building. Always learning. 🚀*
