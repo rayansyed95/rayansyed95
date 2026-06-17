@@ -105,11 +105,4 @@ Content-based recommendation system spanning 6 major streaming platforms, built 
 
 ---
 
-### 📉 [Customer Churn Prediction](https://github.com/rayansyed95/churn-prediction) - Production Ready
-End-to-end machine learning pipeline using **Random Forest** and **XGBoost**, achieving 85% accuracy on customer churn classification.
-
-> `Python` `Scikit-learn` `XGBoost` `Pandas` `Jupyter`
-
----
-
 *Always building. Always learning. 🚀*
