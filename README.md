@@ -2,7 +2,7 @@
 
 **BSc Software Engineering (First Class Honours)** · Buckinghamshire New University
 
-A Software Engineering graduate specialising in **Machine Learning**, **Generative AI**, and **Intelligent Systems**. Experienced in designing and deploying AI-powered applications using Python, LLM APIs, and modern ML frameworks. Currently seeking opportunities in AI/ML Engineering or AI Application Development.
+A Software Engineering graduate specialising in **Machine Learning**, **Generative AI**, and **Intelligent Systems**. Experienced in designing and deploying AI-powered applications using Python, LLM APIs, and modern ML frameworks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan%20Yousuf%20Syed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-yousuf-syed)
 
@@ -32,7 +32,6 @@ A Software Engineering graduate specialising in **Machine Learning**, **Generati
 **Frameworks**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Dev Tools**
@@ -41,14 +40,6 @@ A Software Engineering graduate specialising in **Machine Learning**, **Generati
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-## Professional Experience
-
-**Web Master & AI Practitioner** — Francicea *(Feb 2025 – Present)*
-- Developed a sales prediction model in Python (Scikit-learn, Pandas) achieving ~87% accuracy
-- Built ML microservices using Streamlit and FastAPI for internal analytics dashboards
 
 ---
 
